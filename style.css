@@ -70,7 +70,7 @@ body {
 }
 
 .intro {
-  margin: 120px 0 120px;
+  margin: 0 0 120px;
 }
 
 .subheading {
@@ -112,6 +112,7 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
+  padding-left: 320px;
 }
 
 .skill-css {
