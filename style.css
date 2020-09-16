@@ -50,7 +50,7 @@ body {
   margin-bottom: 620px;
 }
 
-.hero-image .container {
+.hero-image .container .skill-html{
   max-width: 1408px;
   text-align: center;
 }
