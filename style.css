@@ -112,8 +112,7 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
-  padding-left: 320px;
-}
+  }
 
 .skill-css {
   background-image: url("img/icon-css.svg");
